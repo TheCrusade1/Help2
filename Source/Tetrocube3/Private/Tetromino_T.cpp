@@ -1,9 +1,9 @@
 // Fill out your copyright notice in the Description page of Project Settings.
 
-
+/*
 #include "Tetromino_T.h"
 #include "BlockBase.h"
-
+/*
 ATetromino_T::ATetromino_T()
 {
 	PrimaryActorTick.bCanEverTick = false;
@@ -44,3 +44,4 @@ void ATetromino_T::SetBlockPositions()
 		break;
 	}
 }
+*/

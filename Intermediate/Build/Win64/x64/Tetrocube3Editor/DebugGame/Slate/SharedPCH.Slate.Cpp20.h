@@ -1,3 +1,3 @@
 // PCH for Runtime/Slate/Public/SlateSharedPCH.h
-#include "C:/Unreal 5.3 Projects/Tetrocube3/Intermediate/Build/Win64/x64/Tetrocube3Editor/DebugGame/Slate/SharedDefinitions.Slate.Cpp20.h"
+#include "C:/GitHub/Help2/Intermediate/Build/Win64/x64/Tetrocube3Editor/DebugGame/Slate/SharedDefinitions.Slate.Cpp20.h"
 #include "Runtime/Slate/Public/SlateSharedPCH.h"

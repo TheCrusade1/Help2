@@ -110,7 +110,7 @@ void APlayerBoard::AddTetrominoToQueue()
 
 	}
 
-	uint8 minoType = FMath::RandRange(0, 6);
+	uint8 minoType = FMath::RandRange(0, 1);
 	//Insert at position 0 in THE Queue so that Pop() always gets the last one added
 	switch (minoType) {
 	case 0:
@@ -122,12 +122,12 @@ void APlayerBoard::AddTetrominoToQueue()
 		break;
 	case 1:
 		Queue.Insert(GetWorld()->SpawnActor<ATetrominoBase>(
-			T_Mino,
+			I_Mino,
 			TetrominoSpawn->GetComponentLocation(),
 			TetrominoSpawn->GetComponentRotation()
 		), 0);
 		break;
-	case 2:
+	/*case 2:
 		Queue.Insert(GetWorld()->SpawnActor<ATetrominoBase>(
 			L_Mino,
 			TetrominoSpawn->GetComponentLocation(),
@@ -161,7 +161,7 @@ void APlayerBoard::AddTetrominoToQueue()
 			TetrominoSpawn->GetComponentLocation(),
 			TetrominoSpawn->GetComponentRotation()
 		), 0);
-		break;
+		break;*/
 	}
 }
 
@@ -193,7 +193,7 @@ void APlayerBoard::SetupPlayerInputComponent(UInputComponent* PlayerInputCompone
 
 void APlayerBoard::InitializeQueue()
 {
-	for (int8 i = 0; i < 4; i++) {
+	for (int8 i = 0; i < 1; i++) {
 		AddTetrominoToQueue();
 	}
 }

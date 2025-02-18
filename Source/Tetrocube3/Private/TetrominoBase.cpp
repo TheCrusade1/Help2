@@ -9,7 +9,7 @@ ATetrominoBase::ATetrominoBase()
 {
 	// Set this actor to call Tick() every frame.  You can turn this off to improve performance if you don't need it.
 	PrimaryActorTick.bCanEverTick = true;
-
+	/*
 	BlockPositions.Add(FVector(-100, 0, -100));
 	BlockPositions.Add(FVector(0, 0, -100));
 	BlockPositions.Add(FVector(100, 0, -100));
@@ -19,7 +19,7 @@ ATetrominoBase::ATetrominoBase()
 	BlockPositions.Add(FVector(-100, 0, 100));
 	BlockPositions.Add(FVector(0, 0, 100));
 	BlockPositions.Add(FVector(100, 0, 100));
-	Orientation = 0;
+	Orientation = 0;*/
 }
 
 // Called when the game starts or when spawned

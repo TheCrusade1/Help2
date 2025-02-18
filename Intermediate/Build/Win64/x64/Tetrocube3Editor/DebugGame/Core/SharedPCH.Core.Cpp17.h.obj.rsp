@@ -1,4 +1,4 @@
-"C:\Unreal 5.3 Projects\Tetrocube3\Intermediate\Build\Win64\x64\Tetrocube3Editor\DebugGame\Core\SharedPCH.Core.Cpp17.cpp"
+"C:\GitHub\Help2\Intermediate\Build\Win64\x64\Tetrocube3Editor\DebugGame\Core\SharedPCH.Core.Cpp17.cpp"
 /I "."
 /I "Runtime\Core\Public"
 /I "Runtime\Core\Internal"
@@ -10,10 +10,10 @@
 /external:I "C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\shared"
 /external:I "C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\um"
 /external:I "C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\winrt"
-/Yc"C:\Unreal 5.3 Projects\Tetrocube3\Intermediate\Build\Win64\x64\Tetrocube3Editor\DebugGame\Core\SharedPCH.Core.Cpp17.h"
-/Fp"C:\Unreal 5.3 Projects\Tetrocube3\Intermediate\Build\Win64\x64\Tetrocube3Editor\DebugGame\Core\SharedPCH.Core.Cpp17.h.pch"
-/Fo"C:\Unreal 5.3 Projects\Tetrocube3\Intermediate\Build\Win64\x64\Tetrocube3Editor\DebugGame\Core\SharedPCH.Core.Cpp17.h.obj"
-/sourceDependencies "C:\Unreal 5.3 Projects\Tetrocube3\Intermediate\Build\Win64\x64\Tetrocube3Editor\DebugGame\Core\SharedPCH.Core.Cpp17.h.dep.json"
+/Yc"C:\GitHub\Help2\Intermediate\Build\Win64\x64\Tetrocube3Editor\DebugGame\Core\SharedPCH.Core.Cpp17.h"
+/Fp"C:\GitHub\Help2\Intermediate\Build\Win64\x64\Tetrocube3Editor\DebugGame\Core\SharedPCH.Core.Cpp17.h.pch"
+/Fo"C:\GitHub\Help2\Intermediate\Build\Win64\x64\Tetrocube3Editor\DebugGame\Core\SharedPCH.Core.Cpp17.h.obj"
+/sourceDependencies "C:\GitHub\Help2\Intermediate\Build\Win64\x64\Tetrocube3Editor\DebugGame\Core\SharedPCH.Core.Cpp17.h.dep.json"
 /Zc:inline
 /nologo
 /Oi

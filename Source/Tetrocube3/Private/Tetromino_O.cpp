@@ -1,6 +1,6 @@
 // Fill out your copyright notice in the Description page of Project Settings.
 
-
+/*
 #include "Tetromino_O.h"
 #include "BlockBase.h"
 
@@ -45,4 +45,4 @@ void ATetromino_O::SetBlockPositions()
 		break;
 
 	}
-}
+}*/

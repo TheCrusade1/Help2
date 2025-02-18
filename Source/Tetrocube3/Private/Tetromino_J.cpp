@@ -1,6 +1,6 @@
 // Fill out your copyright notice in the Description page of Project Settings.
 
-
+/*
 #include "Tetromino_J.h"
 #include "BlockBase.h"
 
@@ -47,4 +47,4 @@ void ATetromino_J::SetBlockPositions()
 		Blocks[1]->SetActorLocation(BlockPositions[8] + GetActorLocation());
 		break;
 	}
-}
+}*/

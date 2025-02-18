@@ -31,7 +31,21 @@
 				"C:/Unreal 5.3 Projects/Tetrocube3/Content/Input/IA_Exit.uasset",
 				"C:/Unreal 5.3 Projects/Tetrocube3/Content/Input/IA_Hold.uasset",
 				"C:/Unreal 5.3 Projects/Tetrocube3/Content/Meshes/SM_ActiveSlice.uasset",
-				"C:/Unreal 5.3 Projects/Tetrocube3/Content/Materials/M_Gloss.uasset"
+				"C:/Unreal 5.3 Projects/Tetrocube3/Content/Materials/M_Gloss.uasset",
+				"C:/GitHub/Help2/Content/Blueprints/Actors/BP_Tetromino_Z.uasset",
+				"C:/GitHub/Help2/Content/Blueprints/Actors/BP_Tetromino_T.uasset",
+				"C:/GitHub/Help2/Content/Blueprints/Actors/BP_Tetromino_S.uasset",
+				"C:/GitHub/Help2/Content/Blueprints/Actors/BP_Tetromino_O.uasset",
+				"C:/GitHub/Help2/Content/Blueprints/Actors/BP_Tetromino_L.uasset",
+				"C:/GitHub/Help2/Content/Blueprints/Actors/BP_Tetromino_J.uasset",
+				"C:/GitHub/Help2/Content/Levels/Tetrocube3.umap",
+				"C:/GitHub/Help2/Content/Blueprints/Actors/BP_PlayerBoard.uasset",
+				"C:/GitHub/Help2/Content/Blueprints/Actors/BP_Z.uasset",
+				"C:/GitHub/Help2/Content/Blueprints/Actors/BP_T.uasset",
+				"C:/GitHub/Help2/Content/Blueprints/Actors/BP_S.uasset",
+				"C:/GitHub/Help2/Content/Blueprints/Actors/BP_O.uasset",
+				"C:/GitHub/Help2/Content/Blueprints/Actors/BP_L.uasset",
+				"C:/GitHub/Help2/Content/Blueprints/Actors/BP_J.uasset"
 			]
 		}
 	]

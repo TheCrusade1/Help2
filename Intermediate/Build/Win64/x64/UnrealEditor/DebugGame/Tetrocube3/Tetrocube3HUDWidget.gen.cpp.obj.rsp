@@ -1,11 +1,11 @@
-"C:\Unreal 5.3 Projects\Tetrocube3\Intermediate\Build\Win64\UnrealEditor\Inc\Tetrocube3\UHT\Tetrocube3HUDWidget.gen.cpp"
-/FI"C:\Unreal 5.3 Projects\Tetrocube3\Intermediate\Build\Win64\x64\Tetrocube3Editor\DebugGame\Engine\SharedPCH.Engine.NonOptimized.Cpp20.h"
-/FI"C:\Unreal 5.3 Projects\Tetrocube3\Intermediate\Build\Win64\x64\UnrealEditor\DebugGame\Tetrocube3\Definitions.Tetrocube3.h"
-/Yu"C:\Unreal 5.3 Projects\Tetrocube3\Intermediate\Build\Win64\x64\Tetrocube3Editor\DebugGame\Engine\SharedPCH.Engine.NonOptimized.Cpp20.h"
-/Fp"C:\Unreal 5.3 Projects\Tetrocube3\Intermediate\Build\Win64\x64\Tetrocube3Editor\DebugGame\Engine\SharedPCH.Engine.NonOptimized.Cpp20.h.pch"
-/Fo"C:\Unreal 5.3 Projects\Tetrocube3\Intermediate\Build\Win64\x64\UnrealEditor\DebugGame\Tetrocube3\Tetrocube3HUDWidget.gen.cpp.obj"
-/sourceDependencies "C:\Unreal 5.3 Projects\Tetrocube3\Intermediate\Build\Win64\x64\UnrealEditor\DebugGame\Tetrocube3\Tetrocube3HUDWidget.gen.cpp.dep.json"
-@"C:\Unreal 5.3 Projects\Tetrocube3\Intermediate\Build\Win64\x64\UnrealEditor\DebugGame\Tetrocube3\Tetrocube3.Shared.rsp"
+"C:\GitHub\Help2\Intermediate\Build\Win64\UnrealEditor\Inc\Tetrocube3\UHT\Tetrocube3HUDWidget.gen.cpp"
+/FI"C:\GitHub\Help2\Intermediate\Build\Win64\x64\Tetrocube3Editor\DebugGame\Engine\SharedPCH.Engine.NonOptimized.Cpp20.h"
+/FI"C:\GitHub\Help2\Intermediate\Build\Win64\x64\UnrealEditor\DebugGame\Tetrocube3\Definitions.Tetrocube3.h"
+/Yu"C:\GitHub\Help2\Intermediate\Build\Win64\x64\Tetrocube3Editor\DebugGame\Engine\SharedPCH.Engine.NonOptimized.Cpp20.h"
+/Fp"C:\GitHub\Help2\Intermediate\Build\Win64\x64\Tetrocube3Editor\DebugGame\Engine\SharedPCH.Engine.NonOptimized.Cpp20.h.pch"
+/Fo"C:\GitHub\Help2\Intermediate\Build\Win64\x64\UnrealEditor\DebugGame\Tetrocube3\Tetrocube3HUDWidget.gen.cpp.obj"
+/sourceDependencies "C:\GitHub\Help2\Intermediate\Build\Win64\x64\UnrealEditor\DebugGame\Tetrocube3\Tetrocube3HUDWidget.gen.cpp.dep.json"
+@"C:\GitHub\Help2\Intermediate\Build\Win64\x64\UnrealEditor\DebugGame\Tetrocube3\Tetrocube3.Shared.rsp"
 /Zc:inline
 /nologo
 /Oi

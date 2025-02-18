@@ -1,11 +1,11 @@
-"C:\Unreal 5.3 Projects\Tetrocube3\Intermediate\Build\Win64\UnrealEditor\Inc\Tetrocube3\UHT\Tetrocube3HUDWidget.gen.cpp"
-/FI"C:\Unreal 5.3 Projects\Tetrocube3\Intermediate\Build\Win64\x64\Tetrocube3Editor\Development\Engine\SharedPCH.Engine.Cpp20.h"
-/FI"C:\Unreal 5.3 Projects\Tetrocube3\Intermediate\Build\Win64\x64\UnrealEditor\Development\Tetrocube3\Definitions.Tetrocube3.h"
-/Yu"C:\Unreal 5.3 Projects\Tetrocube3\Intermediate\Build\Win64\x64\Tetrocube3Editor\Development\Engine\SharedPCH.Engine.Cpp20.h"
-/Fp"C:\Unreal 5.3 Projects\Tetrocube3\Intermediate\Build\Win64\x64\Tetrocube3Editor\Development\Engine\SharedPCH.Engine.Cpp20.h.pch"
-/Fo"C:\Unreal 5.3 Projects\Tetrocube3\Intermediate\Build\Win64\x64\UnrealEditor\Development\Tetrocube3\Tetrocube3HUDWidget.gen.cpp.obj"
-/sourceDependencies "C:\Unreal 5.3 Projects\Tetrocube3\Intermediate\Build\Win64\x64\UnrealEditor\Development\Tetrocube3\Tetrocube3HUDWidget.gen.cpp.dep.json"
-@"C:\Unreal 5.3 Projects\Tetrocube3\Intermediate\Build\Win64\x64\UnrealEditor\Development\Tetrocube3\Tetrocube3.Shared.rsp"
+"C:\Users\gjdob\Downloads\Help2-main\Intermediate\Build\Win64\UnrealEditor\Inc\Tetrocube3\UHT\Tetrocube3HUDWidget.gen.cpp"
+/FI"C:\Users\gjdob\Downloads\Help2-main\Intermediate\Build\Win64\x64\Tetrocube3Editor\Development\Engine\SharedPCH.Engine.Cpp20.h"
+/FI"C:\Users\gjdob\Downloads\Help2-main\Intermediate\Build\Win64\x64\UnrealEditor\Development\Tetrocube3\Definitions.Tetrocube3.h"
+/Yu"C:\Users\gjdob\Downloads\Help2-main\Intermediate\Build\Win64\x64\Tetrocube3Editor\Development\Engine\SharedPCH.Engine.Cpp20.h"
+/Fp"C:\Users\gjdob\Downloads\Help2-main\Intermediate\Build\Win64\x64\Tetrocube3Editor\Development\Engine\SharedPCH.Engine.Cpp20.h.pch"
+/Fo"C:\Users\gjdob\Downloads\Help2-main\Intermediate\Build\Win64\x64\UnrealEditor\Development\Tetrocube3\Tetrocube3HUDWidget.gen.cpp.obj"
+/sourceDependencies "C:\Users\gjdob\Downloads\Help2-main\Intermediate\Build\Win64\x64\UnrealEditor\Development\Tetrocube3\Tetrocube3HUDWidget.gen.cpp.dep.json"
+@"C:\Users\gjdob\Downloads\Help2-main\Intermediate\Build\Win64\x64\UnrealEditor\Development\Tetrocube3\Tetrocube3.Shared.rsp"
 /Zc:inline
 /nologo
 /Oi

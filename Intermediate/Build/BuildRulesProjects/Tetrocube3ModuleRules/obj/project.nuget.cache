@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "1rQPFkdPc48=",
+  "dgSpecHash": "MG6n+q2JOQM=",
   "success": true,
-  "projectFilePath": "C:\\GitHub\\Help2\\Intermediate\\Build\\BuildRulesProjects\\Tetrocube3ModuleRules\\Tetrocube3ModuleRules.csproj",
+  "projectFilePath": "C:\\Users\\gjdob\\Downloads\\Help2-main\\Intermediate\\Build\\BuildRulesProjects\\Tetrocube3ModuleRules\\Tetrocube3ModuleRules.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\gjdob\\.nuget\\packages\\blake3\\0.5.1\\blake3.0.5.1.nupkg.sha512",
     "C:\\Users\\gjdob\\.nuget\\packages\\humanizer.core\\2.2.0\\humanizer.core.2.2.0.nupkg.sha512",
